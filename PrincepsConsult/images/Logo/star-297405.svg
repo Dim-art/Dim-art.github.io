@@ -1,0 +1,22 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="302" width="302" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polyline stroke-linecap="round" id="svg_38" points="163.6400146484375,109.125 163.6400146484375,109.125 " stroke-width="0.24" stroke="#010101" fill="none"/>
+  <path id="svg_41" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="none"/>
+  <path stroke="null" id="svg_48" d="m148.084609,143.590577l0,-140.532318l23.482513,140.532318l-23.482513,0z" stroke-opacity="null" stroke-width="null" fill="#A98E49"/>
+  <path stroke="null" transform="rotate(-180 136.39205932617188,73.4109649658203) " id="svg_52" d="m124.70418,3.26305l0,140.29584l23.37577,-140.29584l-23.37577,0z" stroke-opacity="null" stroke-width="null" fill="#E6C36A"/>
+  <path transform="rotate(-180 136.3752899169922,213.85189819335938) " stroke="null" id="svg_60" d="m124.634033,284.118061l0,-140.53232l23.48251,140.53232l-23.48251,0z" stroke-opacity="null" stroke-width="null" fill="#E6C36A"/>
+  <path stroke="null" id="svg_62" d="m148.089948,143.673002l0,140.29584l23.33325,-140.29584l-23.33325,0z" stroke-opacity="null" stroke-width="null" fill="#A98E49"/>
+  <path stroke="null" transform="rotate(-90 112.36592864990239,135.41360473632815) " id="svg_63" d="m104.247153,171.099132l0,-71.37105l16.237541,71.37105l-16.237541,0z" stroke-opacity="null" stroke-width="null" fill="#E6C36A"/>
+  <path stroke="null" transform="rotate(-90 183.8504333496094,135.423828125) " id="svg_66" d="m175.731664,99.709245l0,71.42917l16.237541,-71.42917l-16.237541,0z" stroke-opacity="null" stroke-width="null" fill="#E6C36A"/>
+  <path stroke="#FFFA8D" transform="rotate(-135 168.59909057617188,112.83933258056642) " id="svg_67" d="m161.89004,77.124742l0,71.42917l13.418101,-71.42917l-13.418101,0z" stroke-opacity="null" stroke-width="null" fill="#FFFA8D"/>
+  <path stroke="null" transform="rotate(-90 112.36592864990236,151.750244140625) " id="svg_84" d="m120.58379,187.435762l0,-71.37105l-16.435725,71.37105l16.435725,0z" stroke-opacity="null" stroke-width="null" fill="#A98E49"/>
+  <path stroke="null" transform="rotate(-90 183.8504333496094,150.93539428710938) " id="svg_85" d="m191.243224,115.220806l0,71.42917l-14.785575,-71.42917l14.785575,0z" stroke-opacity="null" stroke-width="null" fill="#A98E49"/>
+  <path transform="rotate(45 127.54919433593754,174.2912902832031) " stroke="#FFFA8D" id="svg_86" d="m120.84014,138.576702l0,71.42917l13.4181,-71.42917l-13.4181,0z" stroke-opacity="null" stroke-width="null" fill="#FFFA8D"/>
+ </g>
+</svg>

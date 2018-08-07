@@ -1,0 +1,30 @@
+<svg width="625" height="1321" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="1323" width="627" y="-1" x="-1"/>
+ </g>
+
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <path stroke="null" id="svg_41" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="none"/>
+  <g stroke="null" id="svg_7">
+   <polyline stroke="#010101" stroke-linecap="round" id="svg_38" points="379.614501953125,495.88483312784575 379.614501953125,495.88483312784575 " stroke-width="0.24" fill="none"/>
+   <path stroke="null" id="svg_48" d="m314.007947,657.607995l0,-659.421044l69.803549,659.421044l-69.803549,0z" stroke-opacity="null" stroke-width="null" fill="#A98E49"/>
+   <path stroke="null" id="svg_52" d="m313.988252,657.459249l0,-658.311407l-70.145344,658.311407l70.145344,0z" stroke-opacity="null" stroke-width="null" fill="#E6C36A"/>
+   <path stroke="null" id="svg_60" d="m314.142648,657.585267l0,659.421044l-69.494779,-659.421044l69.494779,0z" stroke-opacity="null" stroke-width="null" fill="#E6C36A"/>
+   <path stroke="null" id="svg_62" d="m314.030469,657.994735l0,658.311407l70.27474,-658.311407l-70.27474,0z" stroke-opacity="null" stroke-width="null" fill="#A98E49"/>
+   <path stroke="null" id="svg_63" d="m313.868068,657.334892l-301.014687,0l301.014687,-72.355871l0,72.355871z" stroke-opacity="null" stroke-width="null" fill="#E6C36A"/>
+   <path stroke="null" id="svg_66" d="m314.224029,657.382874l301.259856,0l-301.259814,-72.355871l0,72.355871l-0.000042,0z" stroke-opacity="null" stroke-width="null" fill="#E6C36A"/>
+   <path stroke="null" id="svg_67" d="m313.985992,657.346306l213.022827,-236.999337l-253.03959,192.478606l40.016733,44.520764l0.00003,-0.000033z" stroke-opacity="null" stroke-width="null" fill="#FFFA8D"/>
+   <path stroke="null" id="svg_84" d="m314.155363,657.334902l-301.014645,0l301.014645,71.048359l0,-71.048359z" stroke-opacity="null" stroke-width="null" fill="#A98E49"/>
+   <path stroke="null" id="svg_85" d="m314.224051,657.382896l301.259814,0l-301.259814,70.657021l0,-70.657021z" stroke-opacity="null" stroke-width="null" fill="#A98E49"/>
+   <path stroke="null" id="svg_86" d="m314.029436,657.024439l-213.022857,236.999371l253.03959,-192.478606l-40.016733,-44.520764z" stroke-width="null" fill="#FFFA8D"/>
+   <path stroke="null" id="svg_1" d="m314.02606,657.194913l216.527799,-240.898807l-176.511067,285.419572l-40.016733,-44.520764z" stroke-width="null" fill="#FFFA8D"/>
+   <path stroke="null" id="svg_2" d="m314.048882,657.240066l-216.52777,240.898774l176.511037,-285.419538l40.016733,44.520764z" stroke-width="null" fill="#FFFA8D"/>
+   <path stroke="null" id="svg_3" d="m313.930757,657.236935l-213.022857,-236.999371l173.006125,281.520135l40.016733,-44.520764z" stroke-width="null" fill="#FFFA8D"/>
+   <path stroke="null" id="svg_4" d="m314.2328,657.308946l213.022857,236.999371l-173.006125,-281.520135l-40.016733,44.520764z" stroke-width="null" fill="#FFFA8D"/>
+   <path stroke="null" id="svg_5" d="m314.119039,657.019997l212.704945,236.645676l-252.835482,-191.998298l40.130537,-44.647378z" stroke-width="null" fill="#FFFA8D"/>
+   <path stroke="null" id="svg_6" d="m314.023009,657.386282l-212.818719,-236.772256l252.835452,192.251492l-40.016733,44.520764z" stroke-width="null" fill="#FFFA8D"/>
+  </g>
+ </g>
+</svg>
